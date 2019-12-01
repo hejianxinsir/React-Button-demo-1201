@@ -7,6 +7,8 @@
     "react-dom": "^16.12.0",
     "react-scripts": "1.1.4"
   },
+
+	"hmepage" : "https://hejianxinsir.github.io/React-Button-demo-1201",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
