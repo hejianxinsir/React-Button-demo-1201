@@ -8,7 +8,7 @@
     "react-scripts": "1.1.4"
   },
 
-	"hmepage" : "https://hejianxinsir.github.io/React-Button-demo-1201",
+	"hmepage" : "https://hejianxinsir.github.io/React-Button-demo-1201/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
